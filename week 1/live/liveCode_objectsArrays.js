@@ -37,3 +37,11 @@ console.log(allusers[name]) // this is differnt as it will fetch name variable i
 console.log(allusers["name"]) //works
 console.log(allusers.name) //also works 
 
+const alluserss=[{
+    firstname:"ram",
+    gend:"male"
+},{
+    firstname:"sita",
+    gend:"female"
+}]
+console.log(alluserss)

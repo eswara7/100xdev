@@ -61,3 +61,12 @@ function freq(str0){
       return f;
   }
     console.log(isAnagram("listen","silent"))
+
+
+
+    function isAnagram(str1,str1){
+      str1 = str1.split("").sorted().join()
+      str2 = str2.split("").sorted().join()
+
+
+    }
